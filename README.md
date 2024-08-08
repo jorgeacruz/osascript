@@ -1,0 +1,2 @@
+# osascript
+Command OSX Terminal
